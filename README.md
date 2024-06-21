@@ -20,10 +20,8 @@
 <div align="center">
 
  [![Stats](https://github-stats-alpha.vercel.app/api/?username=Anik-Howlader&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/Anik-Howlader "Stats")
-<p align="center">  
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anik-Howlader&theme=vue" />
-</p>
-   <p align="center">
+<p>  
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anik-Howlader&theme=vue" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anik-Howlader&theme=vue"/>
 </p>
  
