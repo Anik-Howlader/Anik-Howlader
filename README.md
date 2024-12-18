@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-howlader&label=Profile%20views&color=0e75b6&style=flat" alt="anik-howlader" /> </p>
 
 
-- 🔭 I’m currently working on **Feed Library**
+- 🔭 I’m currently working on **scientific conference website**
 
-- 🌱 I’m currently learning **Computer Graphics**
+- 🌱 I’m currently learning **Digital Image Processing**
 
 - 📫 How to reach me **anik.bioinfo@gmail.com**
 
