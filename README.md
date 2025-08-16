@@ -14,10 +14,10 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik-howlader&theme=github-light&hide_border=true" alt="Contribution Graph" />
        <br>
 <p align="center" style="font-family: 'Courier New', Courier, monospace;">
-  <a href="mailto:your.email@example.com" title="Email" style="margin-right: 15px;">
+  <a href="mailto:anik.bioinfo@example.com" title="Email" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Email-Contact-4b6cfa?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn" style="margin-right: 15px;">
+  <a href="https://linkedin.com/in/anik-howlader" title="LinkedIn" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://scholar.google.com/citations?user=YOUR-ID" title="Google Scholar" style="margin-right: 15px;">
