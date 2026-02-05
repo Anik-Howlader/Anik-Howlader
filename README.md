@@ -1,6 +1,6 @@
 <td align="center" valign="top">
   <p align="center">
-    <code>  Hi, let's collaborate  |  Protein  |  NLP  |  Mutation  |  Human-Computer Interaction  |  Bioinformatics  </code>
+    <code>  Hi, let's collaborate  |  Protein  |  NLP  |  Mutation  |  Bioinformatics  |  Human-Computer Interaction  </code>
   </p>
   <p align="center">
     <a href="mailto:anik.bioinfo@example.com" title="Email">
