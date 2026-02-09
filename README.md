@@ -66,7 +66,7 @@
   <br>R
 </td>
    <td align="center" width="96">
-   <img src="https://skillicons.dev/icons?i=php" width="65" height="65" />
+   <img src="https://skillicons.dev/icons?i=php" width="50" height="50" />
   <br>PHP
 </td>
     <td align="center" width="96">
@@ -113,6 +113,55 @@
       <br>Bootstrap
     </td>
   
+  </tr>
+  <tr>
+    <tr>
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Biopython_logo.png/500px-Biopython_logo.png" width="65" height="65" />
+    <br>Biopython
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://user-images.githubusercontent.com/923400/234615947-fb715fdf-cb88-488e-bce6-758656557d4f.svg" width="65" height="65" />
+    <br>ChimeraX
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/1280px-PyMOL_logo.svg.png?20220616080941" width="60" height="60" />
+    <br>PyMOL
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://systat-sigmaplot.com/wp-content/uploads/2020/12/cropped-sigmaplot-small-logo.png" width="55" height="55" />
+    <br>SigmaPlot
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fzVlAuqSyEjOebrcs54uPheFWXZ7xq0Oiw&s" width="65" height="65" />
+    <br>ArcGIS
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://img.informer.com/icons_mac/png/128/721/721270.png" width="50" height="50" />
+    <br>TBtools
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FMQpE4RMhuPNv_w_0kJx4xNopsdSgd2y0Q&s" width="65" height="65" />
+    <br>MEGA
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://popart.maths.otago.ac.nz/wp-content/uploads/2022/08/popartlinear.png" width="65" height="65" />
+    <br>PopART
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://www.ub.edu/molevol/julio/media/DnaSPlogo1.gif" width="45" height="45" />
+    <br>DnaSP6
+  </td>
+</tr>
+
   </tr>
 </table>
 
